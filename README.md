@@ -1,4 +1,5 @@
 # Welcome to the page where the Internet ends 👏
+
 ## Congratulations! ❤
 
 You have finally reached the end of the internet!
@@ -18,6 +19,6 @@ Suggestions:
 
 * Please don't forget to turn off the lights on your way out.😆
 
-life is short, make the most of it... :) 
+life is short, make the most of it... :)
 
-In order to save time, we will now start downloading the internet to your local drive. 
+In order to save time, we will now start downloading the internet to your local drive.
